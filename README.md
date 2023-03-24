@@ -9,7 +9,7 @@ API](https://github.com/RoonLabs/node-roon-api) released for node.js. The
 downside of this approach is that for people, uneducated in programming, it is
 difficult to use the already offered roon Extensions.
 
-My approach is to offer [rooExtend](https://rooExtend.com/), a ready to use
+My approach is to offer [rooExtend](http://diy.rooExtend.com/), a ready to use
 Raspberry Pi image where useful roon Extensions will be already preinstalled.
 The image simply must be copied to a SD-Card with the
 [balenaEtcher](https://www.balena.io/etcher/) Software and plugged into the
@@ -38,5 +38,5 @@ pressing the Surface Dial and change volume by spinning the Surface Dial.
 The image can be downloaded and setup on the Raspberry Pi for free. Controlling
 a dedicated roon playback zone inside roon requires a license. Please find more
 details and the download link to the image on the
-[rooExtend](https://rooExtend.com/) website. Github doesn’t allow that big files
+[rooExtend](http://diy.rooExtend.com/) website. Github doesn’t allow that big files
 😉
